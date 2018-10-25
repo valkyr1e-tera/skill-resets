@@ -6,5 +6,5 @@
         "settingsFile": "config.json",
         "settingsMigrator": "settings_migrator.js"
     },
-    "servers": ["https://raw.githubusercontent.com/caali-hackerman/skill-resets/master/"]
+    "servers": ["https://raw.githubusercontent.com/valkyr1e-tera/skill-resets/master/"]
 }
